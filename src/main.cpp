@@ -4,7 +4,7 @@
 
 #define SSID "BTC2008-A"                                         //ใส่ชื่อ Wifi
 #define PASSWORD "999933339999"                                  //ใส่รหัส Wifi
-#define LINE_TOKEN "RwHKv4YOY7QzgVb7NULzTnqvjaLGHqPoTyUVVclomU2" //ใส่ TOKEN
+#define LINE_TOKEN "fmkEJyW1MwY8T1yVv1erFLFbObKszsUEyLGLg9V882y" //ใส่ TOKEN
 
 const int trigPin = 19;
 const int echoPin = 18;
